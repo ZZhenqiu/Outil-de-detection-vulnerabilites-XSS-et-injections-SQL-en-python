@@ -11,7 +11,7 @@ Pour lancer ce programme :
 
 C'est tout. 
 
-Voici un exemple d'application du programme : 
+Voici un exemple d'application du programme (l'addresse IP vient d'un CTF de TryHackMe) : 
 ![image](https://github.com/ZZhenqiu/Outil-detection-vuln-rabilit-s-XSS-et-injections-SQL-basique/assets/141430165/73151e8f-c31a-4711-8c14-419573fb7501)
 
 
