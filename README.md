@@ -1,4 +1,4 @@
-# Outil-detection-vulnerabilites-XSS-et-injections-SQL-basique en python
+# Outil-de-detection-vulnerabilites-XSS-et-injections-SQL-basique en python
 
 Bonjour, 
 
