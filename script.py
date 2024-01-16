@@ -41,8 +41,6 @@ if __name__ == "__main__":
 
     url_to_check = sys.argv[1]
 
-    # Check for XSS vulnerability
     detect_xss_vulnerability(url_to_check)
 
-    # Check for SQL injection vulnerability
     check_sql_injection(url_to_check)
