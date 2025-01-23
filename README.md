@@ -5,6 +5,7 @@ Bonjour,
 Ce programme est réalisé dans un cadre pédagogique avec comme objectif une meilleure compréhension des vulnérabilités et attaques possibles. 
 Les tests ont été effectués sur des CTFs de TryHackMe. 
 
+
 Ce script effectue les actions suivantes : 
 
 -scan de port, avec énumération des services, des versions et de l’OS. 
@@ -16,6 +17,7 @@ Ce script effectue les actions suivantes :
 -recherche de formulaires à partir des répertoires trouvés précédemment
 
 -recherche de vulnérabilités (Local File Inclusion, Command Injection, XSS et SQLi) grâce à des injections de payloads dans les formulaires trouvés. 
+
 
 
 Pour lancer ce programme : 
@@ -38,16 +40,19 @@ Voilà.
 
  
 
+
 Notes : 
 
 -Dans l’exemple ci-dessus, le script a été nommé « a.py » et la worldlist « a.txt » pour des raisons de rapidité, mais vous pouvez les nommer comme bon vous semble. 
 
 -Si vous testez le code sur l’attack box proposée par TryHackMe, il est à noter qu’il faudra effectuer une petite modification. En effet, le script utilise Scapy et BeautifulSoup, or dans ces machines, elles sont installées pour Python 2.7 mais pas Python 3. Si vous rencontrez des problèmes au lancement, effectuez les commandes suivantes : 
+
 apt update
 
 pip3 install scapy
 
 pip3 install bs4
+
 
 
 Normalement tout devrait être bon. 
