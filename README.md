@@ -20,6 +20,11 @@ python3 nom_du_script.py -u IP_à_scanner -w wordlist
 
 Voilà. 
  
+![1](https://github.com/user-attachments/assets/72908fbe-632c-4935-a228-79cdb3f75160)
+
+
+![2](https://github.com/user-attachments/assets/4d9ef0d7-d0d4-4813-ac58-45a3e045dd83)
+
  
 
 Notes : 
